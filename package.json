@@ -1,7 +1,7 @@
 {
   "name": "to_do_list",
   "version": "0.1.0",
-  "homepage":"https://TarikRouan.github.io/react_siple_todo_list",
+  "homepage":"https://TarikRouan.github.io/react_simple_todo_list",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
